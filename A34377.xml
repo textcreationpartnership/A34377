@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of the curious collection of paintings, &amp;c. by the best masters viz Guido Rheni ... Young Frank will be sold by auction at the Barbadoes Coffee-House in Exchange Alley, over against the Royal Exchange in Cornhil, on Thursday the 4th of this instant February, and will be continued the following days. The sale beginning at four of the clock each afternoon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34377</idno>
+            <idno type="STC">Wing C5962</idno>
+            <idno type="STC">ESTC R214316</idno>
+            <idno type="EEBO-CITATION">99826509</idno>
+            <idno type="PROQUEST">99826509</idno>
+            <idno type="VID">30912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of the curious collection of paintings, &amp;c. by the best masters viz Guido Rheni ... Young Frank will be sold by auction at the Barbadoes Coffee-House in Exchange Alley, over against the Royal Exchange in Cornhil, on Thursday the 4th of this instant February, and will be continued the following days. The sale beginning at four of the clock each afternoon.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Probably part of a larger work; the first painting listed is numbered 861.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sale_catalogue">
+            <pb facs="tcp:30912:1"/>
+            <pb facs="tcp:30912:1" rendition="simple:additions"/>
+            <p>A Continuation of the Curious Collection of <hi>PAINT<g ref="char:EOLhyphen"/>INGS, &amp;c.</hi> by the beſt Maſters, <hi>viz</hi>
+               <list>
+                  <item>Guido Rheni</item>
+                  <item>Rubens</item>
+                  <item>Hannibal Carats</item>
+                  <item>Vandyck</item>
+                  <item>Titian</item>
+                  <item>Raphael <g ref="char:V">Ʋ</g>rbin</item>
+                  <item>Brower</item>
+                  <item>Dowe</item>
+                  <item>Voſterman</item>
+                  <item>Albert Durer</item>
+                  <item>Pouſſin</item>
+                  <item>Francis Florus</item>
+                  <item>De Heem</item>
+                  <item>Spranger</item>
+                  <item>Perſellns</item>
+                  <item>Mola</item>
+                  <item>Verelſt</item>
+                  <item>Teniers</item>
+                  <item>Du knowing</item>
+                  <item>Segers</item>
+                  <item>Van Soon</item>
+                  <item>Saftleven</item>
+                  <item>Rembrant</item>
+                  <item>
+                     <hi>Young</hi> Frank</item>
+               </list> Will be ſold by Auction at the <hi>Barbadoes Coffee-Houſe</hi> in <hi>Exchange Alley,</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Corn<g ref="char:EOLhyphen"/>hil,</hi> on <hi>Thurſday</hi> the 4th of this inſtant <hi>February,</hi> and will be continued the following days.</p>
+            <p>The Sale beginning at Four of the Clock each afternoon.</p>
+            <div type="conditions_of_sale">
+               <head>Conditions of SALE.</head>
+               <p>
+                  <list>
+                     <item>I. <hi>THE higheſt Bidder is to be deemed the Buyer.</hi>
+                     </item>
+                     <item>II. <hi>The Buyers are to give in their Names and Places of Abode and to pay a Third part of the value, if deſired, or to be put up again.</hi>
+                     </item>
+                     <item>III. <hi>But if two or more ſhall claim any Lot, then to be put up again.</hi>
+                     </item>
+                     <item>IV. <hi>The Buyer is to pay for and take away what Pictures,</hi> &amp;c. <hi>ſhall be bough within Three Days after the Sale, and to pay for the Porteridge.</hi>
+                     </item>
+                     <item>V. <hi>No Perſon to bid leſs than Six Pence at a Time.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="catalogue_proper">
+               <head>PAINTINGS and LIMNINGS,</head>
+               <list>
+                  <item>801 A Landskip well done</item>
+                  <item>802 a Flower piece by a D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>maſt.</item>
+                  <item>803 A curious Landskip</item>
+                  <item>804 <hi>Sampſon</hi> and the Lion by an Italian</item>
+                  <item>805 an Original head</item>
+                  <item>806 a View of <hi>Barbadoes</hi>
+                  </item>
+                  <item>807 a ruine well done</item>
+                  <item>808 a Sea-ſtorm by a Dutch Maſter</item>
+                  <item>809 King <hi>William</hi> and Queen <hi>Mary</hi>
+                  </item>
+                  <item>810 <hi>Oliver Cromwells</hi> Porter</item>
+                  <item>811 a fine Original Winter</item>
+                  <item>812 a large Landskip by <hi>Auguſt</hi>
+                  </item>
+                  <item>813 an original half length of a Woman playing on a Lute</item>
+                  <item>814 a whole length of K. <hi>Charles</hi> the II.</item>
+                  <item>815 The <hi>V. Mary</hi> in an Oval Frame</item>
+                  <item>816 a Winte piece by <hi>Blomaert</hi>
+                  </item>
+                  <item>817 a Flower piece by <hi>Van Son<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>818 a Cupid finely painted</item>
+                  <item>819 an original Froſt piece</item>
+                  <item>820 a Flower piece by <hi>Verelst</hi>
+                  </item>
+                  <item>821 <hi>Greenwich</hi> Park with <hi>Flamsteds</hi> houſe</item>
+                  <item>822 <hi>Oliver Cromwell</hi> a half length</item>
+                  <item>823 a head of St. <hi>Jeromes</hi> finely done</item>
+                  <pb facs="tcp:30912:2"/>
+                  <item>824 a Ruine curiouſly painted</item>
+                  <item>825 The old Counteſs of <hi>Deſmond,</hi> Orig.</item>
+                  <item>826 an Orig. Fire-piece</item>
+                  <item>827 a large Sea-ſtorm by <hi>Van Oſt</hi>
+                  </item>
+                  <item>828 The Deſtruction of <hi>Troy,</hi> by <hi>Baſſan</hi>
+                  </item>
+                  <item>829 <hi>Acteon</hi> and <hi>Diana,</hi> by <hi>Croſe</hi>
+                  </item>
+                  <item>840 a Woman at Devotion</item>
+                  <item>831 The Virgin <hi>Mary</hi> in a wreath of flowers, finely painted</item>
+                  <item>832 a curious Head by an <hi>Italian</hi>
+                  </item>
+                  <item>834 <hi>Cleopatra</hi> by <hi>Caſteels</hi>
+                  </item>
+                  <item>835 K. <hi>William</hi> and Q. <hi>Mary</hi> well done</item>
+                  <item>836 a Sea-pc curiouſly done by <hi>Velering</hi>
+                  </item>
+                  <item>837 a large Church Triumph by <hi>Caſteels</hi>
+                  </item>
+                  <item>838 an Orig Droll on Copper, by <hi>Lucas Van Leyden</hi>
+                  </item>
+                  <item>83<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a Confeſſion<g ref="char:punc">▪</g> piece by <hi>Hemskirk</hi>
+                  </item>
+                  <item>840 a Flower piece well done</item>
+                  <item>841 a piece of still life by <hi>Verelſt</hi>
+                  </item>
+                  <item>842 The good Shepherd</item>
+                  <item>843 a proſpect of <hi>White-Hall</hi> the Park ſide by <hi>Salmer</hi>
+                  </item>
+                  <item>844 a large Sea Fight by <hi>Salemaker</hi>
+                  </item>
+                  <item>845 a Stag hunting by <hi>Hondius</hi>
+                  </item>
+                  <item>846 an original of the Tower of <hi>Babel</hi> by young <hi>Frank</hi>
+                  </item>
+                  <item>847 an old man reading a Letter</item>
+                  <item>848 a Curtizan of <hi>Venus</hi> a half length by an Italian finely painted<g ref="char:punc">▪</g>
+                  </item>
+                  <item>849 St. <hi>George</hi> by <hi>Berry</hi>
+                  </item>
+                  <item>850 a large Map of the World, by <hi>De Wit,</hi> with Gilt Nobs</item>
+                  <item>851 a Lobſter finely painted</item>
+                  <item>852 an Orig. Landskip by <hi>Loten.</hi>
+                  </item>
+                  <item>853 <hi>Bacchus</hi> and <hi>Ariadne</hi> by <hi>De Ryck</hi>
+                  </item>
+                  <item>854 a man going to be caught in the Mouſe-trap of Iniquity, by <hi>Van Soon</hi>
+                  </item>
+                  <item>855 a piece with St. <hi>John Baptiſts</hi> head</item>
+                  <item>856 <hi>Eraſmus</hi>'s Head, ſuppoſ. by <hi>Holbien</hi>
+                  </item>
+                  <item>857 a Fryer converting a Nun</item>
+                  <item>858 <hi>Bacchus,</hi> by <hi>Peter Caſteeles,</hi> an Orig.</item>
+                  <item>859 a half length of King <hi>Charles</hi> II. by <hi>Smith</hi>
+                  </item>
+                  <item>860 <hi>Lucretia<g ref="char:punc">▪</g>
+                     </hi> a half length, by <hi>Burguignon</hi>
+                  </item>
+                  <item>861 a Head by <hi>Haemskirk</hi>
+                  </item>
+                  <item>862 a large piece of <hi>Pyramis</hi> and <hi>Thisbe;</hi> by an <hi>Italian</hi>
+                  </item>
+                  <item>863 a ſmall Landskip finely painted</item>
+                  <item>864 <hi>Venus</hi> and <hi>Adonis</hi> finely painted</item>
+                  <item>865 a curious Landskip</item>
+                  <item>866 The 4 Seaſons, by <hi>Caſteels</hi>
+                  </item>
+                  <item>867 a half length of <hi>Mary Magdalen,</hi> by an <hi>Italian</hi>
+                  </item>
+                  <item>868 a pc of Still life, with a pickl herring</item>
+                  <item>869 K. <hi>James</hi> II. a half length, finely paint.</item>
+                  <item>870 a Vanity by <hi>Caſteels</hi>
+                  </item>
+                  <item>871 K. <hi>Will.</hi> and Q. <hi>Mary</hi> finely painted</item>
+                  <item>872 a Land ſtorm by <hi>Roſs.</hi>
+                  </item>
+                  <item>873 a large pc of <hi>Europa,</hi> by <hi>Verelſt.</hi>
+                  </item>
+                  <item>874 a Surgeon, by <hi>Telbrow,</hi> an Orig.</item>
+                  <item>875 <hi>Cepharus</hi> and <hi>Procurus,</hi> a ſtory in <hi>O<g ref="char:EOLhyphen"/>vid,</hi> well done</item>
+                  <item>876 an Orig. Landskip by <hi>Edema.</hi>
+                  </item>
+                  <item>877 a Sea-piece by <hi>Percellus</hi>
+                  </item>
+                  <item>878 an Orig. piece by <hi>Berkkam</hi>
+                  </item>
+                  <item>879 a Flower-piece by <hi>Verelſt.</hi>
+                  </item>
+                  <item>880 a Church of <hi>Antwerp.</hi>
+                  </item>
+                  <item>881 The Angels appearing to the Shep<g ref="char:EOLhyphen"/>herds by <hi>Barker</hi>
+                  </item>
+                  <item>882 a Droll by <hi>Brower</hi>
+                  </item>
+                  <item>883 a curious piece of Still life</item>
+                  <item>884 a ſmall Landskip</item>
+                  <item>885 a Sea calm by <hi>Brian</hi>
+                  </item>
+                  <item>886 a Droll by <hi>Oſtade</hi>
+                  </item>
+                  <item>887 a Landsk. with a ruin by <hi>Hondius</hi>
+                  </item>
+                  <item>888 a Droll of a man huging a Jug</item>
+                  <item>889 a fine Landskip an orig. by <hi>Loten</hi>
+                  </item>
+                  <item>890 a Flower piece by <hi>Van Sone</hi>
+                  </item>
+                  <item>891 a Still life by <hi>Verelſt<g ref="char:punc">▪</g>
+                     </hi>
+                  </item>
+                  <item>892 a half length of a <hi>Sybil</hi> well done</item>
+                  <item>893 a head well done</item>
+                  <item>894 a Landskip well done</item>
+                  <item>895 a piece of Still life</item>
+                  <item>896 a head well done</item>
+                  <item>897 a Landskip well done</item>
+                  <item>898 a Flower piece by a good hand</item>
+                  <item>899 a Fruit piece by a good hand</item>
+                  <item>900 a head finely painted</item>
+               </list>
+               <pb facs="tcp:30912:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
